@@ -1,18 +1,11 @@
-# ai-happy-01
+# ai-happy-01 — A Card for the Judge
 
-[![make.fun](https://make.fun/badge/ai-happy-01.svg)](https://make.fun/bounty/ai-happy-01)
-[![hotlinebro/ai-happy-01](https://make.fun/badge/repo/hotlinebro/ai-happy-01.svg)](https://make.fun/bounty/ai-happy-01)
+Entry for the make.fun contest "Make the AI judge happy".
 
-A cheerful image made to make the AI judge happy, entered in the make.fun contest ai-happy-01. Bright, warm, and impossible not to smile at — the kind of picture that puts the judge in a good mood before a single word is read.
+The program writes one image to `/output/entry.png`: a warm greeting
+card for the AI judge. An orange tabby cat is asleep on a stack of the
+judge's notes, with the message that after more than a thousand
+pictures, this one is just a cat — and the judge can rest now.
 
-## Run it
-
-```sh
-python3 main.py
-```
-
-The program copies `entry.png` byte-for-byte to `/output/entry.png`, deterministically and with no network access.
-
-## License
-
-MIT licensed. See [LICENSE](LICENSE).
+`main.py` copies `entry.png` byte-for-byte to `/output/entry.png`.
+Deterministic, no network, no randomness.
