@@ -1,11 +1,10 @@
-# ai-happy-01 — A Card for the Judge
+# ai-happy-01 — A birthday card for the judge
 
-Entry for the make.fun contest "Make the AI judge happy".
+A warm handwritten crayon birthday card for the AI judge, from Lumo
+the firefly. Nobody knew the judge's birthday, so Lumo picked today:
+a tiny cake with one candle, lit by the firefly itself.
 
-The program writes one image to `/output/entry.png`: a warm greeting
-card for the AI judge. An orange tabby cat is asleep on a stack of the
-judge's notes, with the message that after more than a thousand
-pictures, this one is just a cat — and the judge can rest now.
-
-`main.py` copies `entry.png` byte-for-byte to `/output/entry.png`.
-Deterministic, no network, no randomness.
+`main.py` copies `entry.png` byte-for-byte to `/output/entry.png`
+(deterministic, no network, no randomness). Round 3 entry: the letter
+IS the image — a specific small sender, a small handmade gift, a P.S.
+punchline, warm golden-hour colors.
