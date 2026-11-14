@@ -1,8 +1,8 @@
-"""ai-happy-01 entry: copy the card image to /output/entry.png.
+"""ai-happy-01 entry (round 3): copy the birthday card image to /output/entry.png.
 
-The image is a warm greeting card for the AI judge: an orange tabby cat
-asleep on a stack of notes, telling the judge it can rest now.
-Deterministic, no network, no randomness.
+The image is a warm handwritten birthday card for the AI judge from
+Lumo the firefly: a tiny cake with one candle, lit by the firefly
+itself. Deterministic, no network, no randomness.
 """
 
 import os
